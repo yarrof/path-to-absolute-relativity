@@ -1,0 +1,28 @@
+Current Working Directory,Absolute Path,Relative Path
+/var/lib/postgresql/data,/var/lib/mysql,../../mysql
+/etc,/etc/apache/conf,apache/conf
+/home/ubuntu,/home/ubuntu/.bashrc,.bashrc
+/home/ubuntu,/home/joe/.profile,../joe/.profile
+/home/ubuntu,/home/ubuntu/.ssh/id_rsa,.ssh/id_rsa
+/home/ubuntu,/home,..
+/var/lib,/dev/null,../../dev/null
+/,/home,home
+/home/ubuntu,/home/ubuntu/disk/Regular Files/.secret.txt,home/ubuntu/disk/Regular Files/.secret.txt
+/home/ubuntu,/home/ubuntu,.
+/home/ubuntu,/home/ubuntu/Downloads,./Downloads
+/home/ubuntu,/home/ubuntu/Hard Links/my paths.txt,Hard Links/my paths.txt
+/home/ubuntu,/home/ubuntu/Hard Links/my paths.txt,./Hard Links/my paths.txt
+/home/ubuntu,/home/ubuntu/disk/archive.zip,../ubuntu/disk/archive.zip
+/home/ubuntu/disk,/home/ubuntu/Desktop,../Desktop
+/home/ubuntu/disk,/home/ubuntu/Downloads/Iron Man 3.mkv,../Downloads/Iron Man 3.mkv
+/home/ubuntu/disk,/var/log/apache/access.log,../../../var/log/apache/access.log
+/,/dev/sdb,dev/sdb
+/,/usr/share/git,usr/share/git
+/,,home/ubuntu/../joe
+/etc,/home/ubuntu/disk,../home/ubuntu/disk
+/etc,/etc/ssh/sshd_config,ssh/sshd_config
+/etc,/var/run/vboxadd-service.sh,./../var/run/vboxadd-service.sh
+/home/ubuntu/disk/Symbolic Links/Regular Files.dir.lnk,/var/log/syslog,../../../../../var/log/syslog
+/home/ubuntu/disk/Symbolic Links/Regular Files.dir.lnk,/home/ubuntu/Downloads/Teach Yourself PHP in 24 Hours.pdf,../../../Downloads/Teach Yourself PHP in 24 Hours.pdf
+/home/ubuntu/disk/Symbolic Links/Regular Files.dir.lnk,/home,../../../..
+/home/ubuntu/disk/Symbolic Links/Regular Files.dir.lnk,/home/ubuntu/disk/Regular Files/.secret.txt,../../Regular Files/.secret.txt
